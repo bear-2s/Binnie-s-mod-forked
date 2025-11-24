@@ -532,7 +532,7 @@ public enum EnumHoneyComb implements IEBEnumItem {
 		@Override
 		protected void addSubtypes(ItemStack beeswax, ItemStack honeyDrop) {
 			addProduct(honeyDrop, 0.25f);
-			addProduct(new ItemStack(Items.QUARTZ), 0.25f);
+			addProduct(new ItemStack(Items.QUARTZ), 1.00f);
 			tryAddProduct("dustCertusQuartz", 0.20f);
 		}
 	},

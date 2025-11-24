@@ -253,7 +253,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.COPPER.get(1), 0.06f);
+				.addSpecialty(EnumHoneyComb.COPPER.get(1), 0.20f);
 		}
 
 		@Override
@@ -267,7 +267,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.TIN.get(1), 0.06f);
+				.addSpecialty(EnumHoneyComb.TIN.get(1), 0.20f);
 		}
 
 		@Override
@@ -281,7 +281,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.IRON.get(1), 0.05f);
+				.addSpecialty(EnumHoneyComb.IRON.get(1), 0.20f);
 		}
 
 		@Override
@@ -295,7 +295,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.LEAD.get(1), 0.05f);
+				.addSpecialty(EnumHoneyComb.LEAD.get(1), 0.15f);
 		}
 
 		@Override
@@ -311,7 +311,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.ZINC.get(1), 0.05f);
+				.addSpecialty(EnumHoneyComb.ZINC.get(1), 0.15f);
 		}
 
 		@Override
@@ -325,7 +325,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.TITANIUM.get(1), 0.02f);
+				.addSpecialty(EnumHoneyComb.TITANIUM.get(1), 0.10f);
 		}
 
 		@Override
@@ -338,7 +338,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.TUNGSTEN.get(1), 0.01f);
+				.addSpecialty(EnumHoneyComb.TUNGSTEN.get(1), 0.10f);
 		}
 
 		@Override
@@ -351,7 +351,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.NICKEL.get(1), 0.05f);
+				.addSpecialty(EnumHoneyComb.NICKEL.get(1), 0.15f);
 		}
 
 		@Override
@@ -367,7 +367,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.GOLD.get(1), 0.02f);
+				.addSpecialty(EnumHoneyComb.GOLD.get(1), 0.10f);
 		}
 
 		@Override
@@ -383,7 +383,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.SILVER.get(1), 0.02f);
+				.addSpecialty(EnumHoneyComb.SILVER.get(1), 0.10f);
 		}
 
 		@Override
@@ -400,7 +400,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.PLATINUM.get(1), 0.01f);
+				.addSpecialty(EnumHoneyComb.PLATINUM.get(1), 0.05f);
 		}
 
 		@Override
@@ -490,7 +490,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.EMERALD.get(1), 0.04f);
+				.addSpecialty(EnumHoneyComb.EMERALD.get(1), 0.05f);
 		}
 
 		@Override
@@ -503,7 +503,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.RUBY.get(1), 0.03f);
+				.addSpecialty(EnumHoneyComb.RUBY.get(1), 0.05f);
 		}
 
 		@Override
@@ -516,7 +516,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.SAPPHIRE.get(1), 0.03f);
+				.addSpecialty(EnumHoneyComb.SAPPHIRE.get(1), 0.05f);
 		}
 
 		@Override
@@ -530,7 +530,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.STONE.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.DIAMOND.get(1), 0.01f);
+				.addSpecialty(EnumHoneyComb.DIAMOND.get(1), 0.05f);
 		}
 
 		@Override
@@ -713,7 +713,7 @@ public enum ExtraBeeDefinition implements IBeeDefinition {
 		protected void setSpeciesProperties(IAlleleBeeSpeciesBuilder beeSpecies) {
 			beeSpecies
 				.addProduct(EnumHoneyComb.OLD.get(1), 0.20f)
-				.addSpecialty(EnumHoneyComb.COAL.get(1), 0.08f);
+				.addSpecialty(EnumHoneyComb.COAL.get(1), 0.50f);
 		}
 
 		@Override
